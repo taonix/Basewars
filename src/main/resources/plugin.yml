@@ -1,0 +1,9 @@
+name: Basewars
+version: ${project.version}
+main: fr.taonix.basewars.Basewars
+api-version: 1.17
+authors: [ Taonix ]
+description: pl de base war
+commands:
+  start:
+    description: start baseWars
